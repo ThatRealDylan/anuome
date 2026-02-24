@@ -6,5 +6,5 @@
     <h5 align="center">a random package manager thats kinda cool</h5>
     <h6 align="center">(anuome logo)</h6>
 </p>
-Anuome is a random package manager (why do i keep making package managers) created by me thats (maybe) cool and has a gui if you hate command line stuff, this project is not open-source yet, but i plan to make it that in the future. anuome will be able to work on Windows and Linux, there are no plans for a macOS port. made in python (why) and a bunch of other stuff you probably don't want me to ramble about
+Anuome is a random package manager (why do i keep making package managers) created by me thats (maybe) cool and has a gui if you hate command line stuff, this project is not open-source yet, but i plan to make it that in the future. anuome will be able to work on Windows and Linux, there are no plans for a macOS port (unless you do it yourself or something like that). made in python (why) and a bunch of other stuff you probably don't want me to ramble about
 
