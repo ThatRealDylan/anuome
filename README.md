@@ -1,2 +1,2 @@
-# anome
+# anUome
 random package manager i wanted to make
